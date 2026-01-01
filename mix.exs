@@ -2,7 +2,7 @@ defmodule Quando.MixProject do
   use Mix.Project
 
   @version "0.1.0"
-  @source_url "https://github.com/yourusername/quando"
+  @source_url "https://github.com/vectorfrog/quando"
 
   def project do
     [
@@ -40,7 +40,7 @@ defmodule Quando.MixProject do
     [
       licenses: ["MIT"],
       links: %{"GitHub" => @source_url},
-      maintainers: ["Your Name"]
+      maintainers: ["vectorfrog"]
     ]
   end
 

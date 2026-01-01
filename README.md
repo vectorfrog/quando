@@ -176,4 +176,4 @@ This matches CLI tools where quick typing is important and months are more commo
 
 ## License
 
-MIT
+MIT - see [LICENSE](LICENSE)
